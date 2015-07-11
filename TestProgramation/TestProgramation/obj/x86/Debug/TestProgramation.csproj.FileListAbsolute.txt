@@ -1,0 +1,8 @@
+E:\Users\B993241\Documents\Visual Studio 2010\Projects\CafeProgramation\TestProgramation\TestProgramation\bin\Debug\TestProgramation.exe.config
+E:\Users\B993241\Documents\Visual Studio 2010\Projects\CafeProgramation\TestProgramation\TestProgramation\bin\Debug\TestProgramation.exe
+E:\Users\B993241\Documents\Visual Studio 2010\Projects\CafeProgramation\TestProgramation\TestProgramation\bin\Debug\TestProgramation.pdb
+E:\Users\B993241\Documents\Visual Studio 2010\Projects\CafeProgramation\TestProgramation\TestProgramation\bin\Debug\CafeProgramation.dll
+E:\Users\B993241\Documents\Visual Studio 2010\Projects\CafeProgramation\TestProgramation\TestProgramation\bin\Debug\CafeProgramation.pdb
+E:\Users\B993241\Documents\Visual Studio 2010\Projects\CafeProgramation\TestProgramation\TestProgramation\obj\x86\Debug\TestProgramation.csprojResolveAssemblyReference.cache
+E:\Users\B993241\Documents\Visual Studio 2010\Projects\CafeProgramation\TestProgramation\TestProgramation\obj\x86\Debug\TestProgramation.exe
+E:\Users\B993241\Documents\Visual Studio 2010\Projects\CafeProgramation\TestProgramation\TestProgramation\obj\x86\Debug\TestProgramation.pdb

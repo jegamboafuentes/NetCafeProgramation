@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeProgramation", "CafeProgramation\CafeProgramation.csproj", "{0E8817E4-754F-41DD-AD5C-42F7C5F02DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8817E4-754F-41DD-AD5C-42F7C5F02DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8817E4-754F-41DD-AD5C-42F7C5F02DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8817E4-754F-41DD-AD5C-42F7C5F02DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8817E4-754F-41DD-AD5C-42F7C5F02DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
